@@ -10,3 +10,5 @@ artifacts
 /artifacts
 /cache
 /node_modules
+/artifacts
+/hardhat.config.js
